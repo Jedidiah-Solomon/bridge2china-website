@@ -15,9 +15,8 @@ const TermsConditions = () => {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-foreground/80">
               <p className="text-lg mb-6">
-                Welcome to Bridge2China (Zhenjiang Mendao business international
-                co., Ltd). These Terms & Conditions outline the rules and
-                regulations for the use of our website and services.
+                Welcome to Bridge2China. These Terms & Conditions outline the
+                rules and regulations for the use of our website and services.
               </p>
 
               <h2 className="text-2xl font-heading font-semibold text-foreground mt-8 mb-4">
@@ -32,9 +31,8 @@ const TermsConditions = () => {
                 Services
               </h2>
               <p className="mb-4">
-                Bridge2China (Zhenjiang Mendao business international co., Ltd)
-                provides consulting services related to business, trade,
-                education, and other activities involving China.
+                Bridge2China provides consulting services related to business,
+                trade, education, and other activities involving China.
               </p>
 
               <h2 className="text-2xl font-heading font-semibold text-foreground mt-8 mb-4">
@@ -49,9 +47,8 @@ const TermsConditions = () => {
                 Limitation of Liability
               </h2>
               <p className="mb-4">
-                Bridge2China (Zhenjiang Mendao business international co., Ltd)
-                shall not be liable for any indirect, incidental, special, or
-                consequential damages.
+                Bridge2China shall not be liable for any indirect, incidental,
+                special, or consequential damages.
               </p>
 
               <h2 className="text-2xl font-heading font-semibold text-foreground mt-8 mb-4">

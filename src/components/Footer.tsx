@@ -33,11 +33,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <img
-                src={logo}
-                alt="Bridge2China - Zhenjiang Mendao business international co., Ltd"
-                className="h-10 rounded"
-              />
+              <img src={logo} alt="Bridge2China" className="h-10 rounded" />
               <span className="font-heading font-bold text-lg">
                 Bridge2China
               </span>
@@ -124,10 +120,7 @@ const Footer = () => {
       {/* Bottom bar */}
       <div className="border-t border-secondary-foreground/10">
         <div className="w-full section-padding py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-secondary-foreground/50">
-          <p>
-            © {year} Bridge2China (Zhenjiang Mendao business international co.,
-            Ltd). All rights reserved.
-          </p>
+          <p>© {year} Bridge2China. All rights reserved.</p>
           <p>
             Developed by{" "}
             <a

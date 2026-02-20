@@ -15,9 +15,8 @@ const RefundPolicy = () => {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-foreground/80">
               <p className="text-lg mb-6">
-                At Bridge2China (Zhenjiang Mendao business international co.,
-                Ltd), we strive to provide high-quality consulting services.
-                This Refund Policy outlines our refund procedures and
+                At Bridge2China, we strive to provide high-quality consulting
+                services. This Refund Policy outlines our refund procedures and
                 conditions.
               </p>
 
