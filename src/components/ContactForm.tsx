@@ -121,7 +121,7 @@ const ContactForm = ({ inline }: ContactFormProps) => {
               </button>
               <button
                 type="button"
-                onClick={() => navigate("/")}
+                onClick={() => navigate("/about")}
                 className="px-4 py-2 border rounded"
               >
                 Go to Homepage
