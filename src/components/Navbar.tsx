@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { motion, AnimatePresence } from "framer-motion";
+import logo from "@/assets/logo.png";
 
 interface NavbarProps {
   onOpenModal: () => void;
@@ -42,7 +43,7 @@ const Navbar = ({ onOpenModal }: NavbarProps) => {
         <div className="flex items-center justify-between h-16 lg:h-20">
           <Link to="/" className="flex items-center gap-2">
             <img
-              src="/logo.png"
+              src={logo}
               alt="Bridge2China"
               className="h-10 lg:h-12 rounded"
             />
