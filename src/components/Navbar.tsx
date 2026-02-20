@@ -43,7 +43,7 @@ const Navbar = ({ onOpenModal }: NavbarProps) => {
           <Link to="/" className="flex items-center gap-2">
             <img
               src="/logo.png"
-              alt="ZMIB - Zhenjiang Mendao business international co., Ltd"
+              alt="Bridge2China"
               className="h-10 lg:h-12 rounded"
             />
             <span
@@ -51,7 +51,7 @@ const Navbar = ({ onOpenModal }: NavbarProps) => {
                 scrolled ? "text-foreground" : "text-white"
               }`}
             >
-              ZMIB
+              Bridge2China
             </span>
           </Link>
 
@@ -76,13 +76,13 @@ const Navbar = ({ onOpenModal }: NavbarProps) => {
 
           <div className="hidden lg:flex items-center gap-4">
             <a
-              href="mailto:info@bridge2china.com"
+              href="mailto:info@bridge2china.org"
               className={`flex items-center gap-1.5 text-sm font-bold hover:text-primary transition-colors ${
                 scrolled ? "text-black" : "text-white"
               }`}
             >
               <Mail className="w-3.5 h-3.5" />
-              info@bridge2china.com
+              info@bridge2china.org
             </a>
             <Button
               onClick={onOpenModal}
@@ -131,11 +131,11 @@ const Navbar = ({ onOpenModal }: NavbarProps) => {
                 </Link>
               ))}
               <a
-                href="mailto:info@bridge2china.com"
+                href="mailto:info@bridge2china.org"
                 className="flex items-center gap-1.5 text-sm font-bold text-black py-2"
               >
                 <Mail className="w-3.5 h-3.5" />
-                info@bridge2china.com
+                info@bridge2china.org
               </a>
               <Button
                 onClick={onOpenModal}

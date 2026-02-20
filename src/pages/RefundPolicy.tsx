@@ -15,9 +15,10 @@ const RefundPolicy = () => {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-foreground/80">
               <p className="text-lg mb-6">
-                At ZMIB (Zhenjiang Mendao business international co., Ltd), we
-                strive to provide high-quality consulting services. This Refund
-                Policy outlines our refund procedures and conditions.
+                At Bridge2China (Zhenjiang Mendao business international co.,
+                Ltd), we strive to provide high-quality consulting services.
+                This Refund Policy outlines our refund procedures and
+                conditions.
               </p>
 
               <h2 className="text-2xl font-heading font-semibold text-foreground mt-8 mb-4">
@@ -50,7 +51,7 @@ const RefundPolicy = () => {
               </h2>
               <p className="mb-4">
                 For refund inquiries, please contact us at
-                info@bridge2china.com.
+                info@bridge2china.org.
               </p>
 
               <p className="text-sm text-foreground/60 mt-8">

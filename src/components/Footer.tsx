@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, MapPin } from "lucide-react";
+import logo from "@/assets/logo.png";
 
 const quickLinks = [
   { label: "Home", path: "/" },
@@ -34,10 +35,12 @@ const Footer = () => {
             <div className="flex items-center gap-2">
               <img
                 src={logo}
-                alt="ZMIB - Zhenjiang Mendao business international co., Ltd"
+                alt="Bridge2China - Zhenjiang Mendao business international co., Ltd"
                 className="h-10 rounded"
               />
-              <span className="font-heading font-bold text-lg">ZMIB</span>
+              <span className="font-heading font-bold text-lg">
+                Bridge2China
+              </span>
             </div>
             <p className="text-sm text-secondary-foreground/70 leading-relaxed">
               Your trusted gateway to China for business, trade, education, and
@@ -103,7 +106,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start gap-2 text-sm text-secondary-foreground/70">
                 <Mail className="w-4 h-4 mt-0.5 shrink-0" />
-                info@bridge2china.com
+                info@bridge2china.org
               </li>
               <li className="flex items-start gap-2 text-sm text-secondary-foreground/70">
                 <Phone className="w-4 h-4 mt-0.5 shrink-0" />
@@ -122,8 +125,8 @@ const Footer = () => {
       <div className="border-t border-secondary-foreground/10">
         <div className="w-full section-padding py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-secondary-foreground/50">
           <p>
-            © {year} ZMIB (Zhenjiang Mendao business international co., Ltd).
-            All rights reserved.
+            © {year} Bridge2China (Zhenjiang Mendao business international co.,
+            Ltd). All rights reserved.
           </p>
           <p>
             Developed by{" "}

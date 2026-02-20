@@ -7,15 +7,15 @@ import {
 
 const faqs = [
   {
-    q: "What services does ZMIB offer?",
+    q: "What services does Bridge2China offer?",
     a: "We offer product sourcing, supplier verification, quality inspection, logistics & shipping, study in China consulting, and business setup advisory services.",
   },
   {
-    q: "How do I get started with ZMIB?",
+    q: "How do I get started with Bridge2China?",
     a: "Simply fill out our contact form or click 'Talk to Us' to schedule a consultation. Our team will guide you through every step.",
   },
   {
-    q: "Is ZMIB reliable for product sourcing?",
+    q: "Is Bridge2China reliable for product sourcing?",
     a: "Absolutely. With years of experience and a vast supplier network, we ensure quality, transparency, and timely delivery for all sourcing projects.",
   },
   {

@@ -110,7 +110,10 @@ const ContactForm = ({ inline }: ContactFormProps) => {
               <button
                 type="button"
                 onClick={() =>
-                  window.open("https://hds.hordanso.ng/widget/booking/XWhpGhzNWtr7tDx4rM7e", "_blank")
+                  window.open(
+                    "https://hds.hordanso.ng/widget/booking/XWhpGhzNWtr7tDx4rM7e",
+                    "_blank",
+                  )
                 }
                 className="px-4 py-2 bg-gradient-primary text-primary-foreground rounded"
               >

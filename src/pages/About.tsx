@@ -46,7 +46,7 @@ const About = () => {
   return (
     <main>
       <HeroBanner
-        title="About ZMIB"
+        title="About Bridge2China"
         subtitle="Your trusted partner for China business, trade, and education."
         backgroundImage={hero1}
       />

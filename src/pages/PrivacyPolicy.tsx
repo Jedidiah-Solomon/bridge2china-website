@@ -15,9 +15,9 @@ const PrivacyPolicy = () => {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-foreground/80">
               <p className="text-lg mb-6">
-                At ZMIB (Zhenjiang Mendao business international co., Ltd), we
-                are committed to protecting your privacy and ensuring the
-                security of your personal information. This Privacy Policy
+                At Bridge2China (Zhenjiang Mendao business international co.,
+                Ltd), we are committed to protecting your privacy and ensuring
+                the security of your personal information. This Privacy Policy
                 outlines how we collect, use, and safeguard your data.
               </p>
 
@@ -53,7 +53,7 @@ const PrivacyPolicy = () => {
               </h2>
               <p className="mb-4">
                 If you have any questions about this Privacy Policy, please
-                contact us at info@bridge2china.com.
+                contact us at info@bridge2china.org.
               </p>
 
               <p className="text-sm text-foreground/60 mt-8">

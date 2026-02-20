@@ -121,7 +121,7 @@ const testimonials = [
   {
     name: "Adebayo Johnson",
     review:
-      "ZMIB sourced products from three different suppliers for us, handled quality inspection, and shipped everything via sea freight — all seamlessly.",
+      "Bridge2China sourced products from three different suppliers for us, handled quality inspection, and shipped everything via sea freight — all seamlessly.",
     rating: 5,
   },
   {
@@ -139,7 +139,7 @@ const testimonials = [
   {
     name: "Fatima Al-Rashid",
     review:
-      "Air freight was fast and customs clearance was handled perfectly. ZMIB keeps you updated at every stage — highly recommend!",
+      "Air freight was fast and customs clearance was handled perfectly. Bridge2China keeps you updated at every stage — highly recommend!",
     rating: 5,
   },
   {

@@ -57,7 +57,7 @@ const Contact = () => {
                   <div>
                     <p className="font-semibold text-sm">Email</p>
                     <p className="text-sm text-muted-foreground">
-                      info@bridge2china.com
+                      info@bridge2china.org
                     </p>
                   </div>
                 </div>
@@ -113,7 +113,7 @@ const Contact = () => {
       {/* Map */}
       <section className="w-full h-[400px] bg-muted">
         <iframe
-          title="ZMIB Location"
+          title="Bridge2China Location"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.123!2d121.4737!3d31.2304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzHCsDEzJzQ5LjQiTiAxMjHCsDI4JzI1LjMiRQ!5e0!3m2!1sen!2s!4v1234567890"
           width="100%"
           height="100%"

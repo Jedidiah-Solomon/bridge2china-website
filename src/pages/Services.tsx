@@ -61,7 +61,7 @@ const Services = () => {
     <main>
       <HeroBanner
         title="Our Services"
-        subtitle="From sourcing and freight to education and consulting — ZMIB delivers end-to-end solutions for your China ambitions."
+        subtitle="From sourcing and freight to education and consulting — Bridge2China delivers end-to-end solutions for your China ambitions."
         backgroundImage={hero2}
       />
 
