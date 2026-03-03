@@ -1,4 +1,4 @@
-# Bridge2China Platform
+# Bridge2China
 
 Visit: [https://bridge2china.jedidiahsolomon.name.ng](https://bridge2china.jedidiahsolomon.name.ng/)
 
